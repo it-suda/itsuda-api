@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    function:
+      definition: main
+  main:
+    banner-mode: off
+
+logging:
+  level:
+    root: info
